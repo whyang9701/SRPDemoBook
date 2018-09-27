@@ -1,2 +1,2 @@
-<iframe width="100%" height="100%" src="https://www.smangus.org/"></iframe>
+<iframe width="600px" height="800px" src="https://www.smangus.org/"></iframe>
 
